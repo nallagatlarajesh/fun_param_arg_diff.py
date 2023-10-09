@@ -1,6 +1,6 @@
 # fun_param_arg_diff.py
 #difference between param and argm
-#a parameter is value it is given in function declaration  statement
+# a parameter is value it is given in function declaration  statement
 # while argument is a variable /value it is give in function calling statement like
 
 #example
